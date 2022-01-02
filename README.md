@@ -2,6 +2,10 @@
 
 This is the back end for an e-commerce site that utilizes Express.js while using Sequelize to interact with a MySQL database. It allows a user to create, delete, and update the following: categories, products, and tags.
 
+## Demonstration Video
+
+[Click here for a demonstration on how this works!](https://watch.screencastify.com/v/RsrVaT4RFQbGcRh5E9CH)
+
 ## Installation
 
 To properly run this, you will need to do the following in the terminal:
